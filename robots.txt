@@ -1,2 +1,3 @@
 User-agent: *
+Disallow: /
 Disallow: /polish_version/

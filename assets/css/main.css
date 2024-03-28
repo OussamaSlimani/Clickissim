@@ -1141,8 +1141,13 @@ section {
 
 .events .event-item .description {
   margin-bottom: 0;
-  color: rgba(255, 255, 255, 0.9);
-  position: relative;
+  color: #fff;
+  font-weight: 500;
+  text-shadow: 2px 2px 4px #000;
+  border-radius: 5px;
+  bottom: 10px;
+  right: 10px;
+  position: absolute;
 }
 
 @media (min-width: 1200px) {
